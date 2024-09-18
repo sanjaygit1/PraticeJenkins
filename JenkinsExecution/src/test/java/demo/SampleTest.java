@@ -15,6 +15,7 @@ public class SampleTest{
 		System.out.println("hello");
 		System.out.println("Bye");
 System.out.println("HI");
+System.out.println("Welcome");
 	}
 
 }
