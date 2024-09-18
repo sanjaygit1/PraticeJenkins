@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 import Generic_Utilities.BaseClass;
 
-public class SampleTest extends BaseClass{
+public class SampleTest{
 /*On Demand
  * On Scheduling
  * Poll SCM
