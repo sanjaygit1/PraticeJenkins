@@ -7,6 +7,13 @@ public class Sample1Test {
 	@Test
 	public void m2()
 	{
-		System.out.println("Qspiders");
+		
+		String BROWSER = System.getProperty("browser");
+	String URL = System.getProperty("url");
+		
+	System.out.println("BROWSER======>"+BROWSER+"  , URL=====>"+URL);
+		
+	//	System.out.println(BROWSER);
+	//push
 	}
 }
